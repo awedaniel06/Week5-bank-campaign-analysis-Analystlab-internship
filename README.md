@@ -70,7 +70,7 @@ The source dashboard is available at [`dashboard/bank-campaign-dashboard.jpg`](B
 5. **Demographics and channel matter.** Married customers and those with secondary education represented the largest subscriber groups. Cellular contact was the most effective channel, reaching 82.6% of subscribers vs. 62.5% of non-subscribers.
 6. **May is the seasonal peak.** Both groups saw their highest contact volume in May, though non-subscriber volume was more concentrated in a handful of months.
 
-See [`docs/findings.md`](docs/findings.md) for the full breakdown.
+See [`Analysis_Report`](Bank_Marketing_Campaign_Analysis_Report) for the full breakdown.
 
 ## Recommendations
 
@@ -81,29 +81,16 @@ See [`docs/findings.md`](docs/findings.md) for the full breakdown.
 - **Properly record "unknown" outcomes going forward**, so future analysis isn't left guessing between new customers and missing data.
 - **Plan staffing around seasonal peaks**, since contact volume consistently spikes in May.
 
-See [`docs/recommendations.md`](docs/recommendations.md) for the full list.
 
 ## Conclusion
 
 Conversion in this campaign wasn't random. It was driven by a combination of financial profile, occupation, demographics, and the quality of engagement during the call itself. Moving from a one-size-fits-all campaign to a segmented, data-informed approach gives the bank a clear path to lifting its conversion rate above the current 47.38% baseline.
 
-## Repository Structure
-
-```
-├── README.md
-├── dashboard/
-│   └── bank-campaign-dashboard.jpg
-├── presentation/
-│   └── Bank_Campaign_Analysis.pptx
-└── docs/
-    ├── findings.md
-    └── recommendations.md
-```
 
 ## Tools Used
 
-Power BI · Excel · SQL · Python
+Power BI · Excel 
 
 ---
 
-*This analysis was completed as part of an internship data analytics project.*
+*Analysis Report by Awe Daniel*
