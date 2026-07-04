@@ -2,7 +2,7 @@
 
 **A data-driven investigation into why customers subscribe to term deposits and how a bank can improve future campaign targeting.**
 
-![Bank Campaign Dashboard](bank-campaign-dashboard.jpg)
+![Bank Campaign Dashboard](Bank-marketing-dashboard.jpg)
 
 ---
 
