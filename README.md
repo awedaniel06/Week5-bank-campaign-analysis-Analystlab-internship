@@ -52,7 +52,7 @@ The dataset is split into two views: **Subscribers** and **Non-Subscribers**, ea
 
 ## Key Visualizations
 
-The full slide deck ([`presentation/Bank_Campaign_Analysis.pptx`](presentation/Bank_Campaign_Analysis.pptx)) includes:
+The full slide deck ([`presentation/Bank_Campaign_Analysis.pptx`](Bank_Campaign_Analysis.pptx)) includes:
 
 - Headline metric comparisons (duration, conversion/decline rate, balance, age)
 - Occupation mix by subscription status
