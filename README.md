@@ -70,7 +70,7 @@ The source dashboard is available at [`dashboard/bank-campaign-dashboard.jpg`](B
 5. **Demographics and channel matter.** Married customers and those with secondary education represented the largest subscriber groups. Cellular contact was the most effective channel, reaching 82.6% of subscribers vs. 62.5% of non-subscribers.
 6. **May is the seasonal peak.** Both groups saw their highest contact volume in May, though non-subscriber volume was more concentrated in a handful of months.
 
-See [`Analysis_Report`](Bank_Marketing_Campaign_Analysis_Report) for the full breakdown.
+See [`Analysis_Report`](Bank_Marketing_Campaign_Analysis_Report.pdf) for the full breakdown.
 
 ## Recommendations
 
