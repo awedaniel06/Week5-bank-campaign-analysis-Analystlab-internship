@@ -59,7 +59,7 @@ The full slide deck ([`presentation/Bank_Campaign_Analysis.pptx`](presentation/B
 - Contact channel breakdown (cellular vs. telephone vs. unknown)
 - Housing loan status comparison
 
-The source dashboard is available at [`dashboard/bank-campaign-dashboard.jpg`](dashboard/bank-campaign-dashboard.jpg).
+The source dashboard is available at [`dashboard/bank-campaign-dashboard.jpg`](Bank-campaign-dashboard.jpg).
 
 ## Major Findings
 
